@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  justify-content: space-between;
+   background-color: rgb(248, 104, 104);
+   height: 1000px;
+   
+}
+h1{color: rgb(238, 209, 206); padding-top: 4%;}
+
+.Card{margin-left: 5%; padding-top: 5%; display: flex; justify-content:space-around; text-align: center;}
